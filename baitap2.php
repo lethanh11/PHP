@@ -30,7 +30,7 @@
 </head>
 
 <body>
-    <form method="post">
+    <form method="post" >
         <label>Inventment Amount </label><input type="number" name="money"><br>
         <label>Yearly Interest Rate </label><input type="number" name="rate"> <br>
         <label>Number of Years </label><input type="number" name='Year'> <br>
