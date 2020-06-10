@@ -36,6 +36,7 @@ if (isset($_POST['One'])) {
     for($i = 0 ; $i < $Two ;$i++){
     array_push($arrayThree,$arrayTwo[$i]);
     }
+    echo "<br>ArrayThree = ";
     print_r($arrayThree);
 }
  ?>
